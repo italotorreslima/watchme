@@ -15,8 +15,6 @@
 #### For production purposes, run: `yarn build` or `npm run build`
 
 ---
-
-Made in Rocketseat Ignite ReactJs
-Done by Gil Vilares
+Made in Rocketseat Ignite ReactJs | Done by Ítalo Torres
 
 ---
